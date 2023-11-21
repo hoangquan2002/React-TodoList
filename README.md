@@ -17,5 +17,5 @@ replace the public and src folders with those in this repo.
   npm start
 ```
 
-<h3>Results</h3>
+<h3>DEMO</h3>
 <img src="./result.png">
